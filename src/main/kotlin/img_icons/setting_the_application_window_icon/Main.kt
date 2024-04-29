@@ -1,4 +1,4 @@
-package setting_the_application_window_icon
+package img_icons.setting_the_application_window_icon
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize

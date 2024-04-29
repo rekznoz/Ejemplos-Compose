@@ -1,4 +1,4 @@
-package Setting_the_application_tray_icon
+package img_icons.Setting_the_application_tray_icon
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.fillMaxSize

@@ -1,4 +1,4 @@
-package Loading_1images_device_storage_network_asynchronously
+package img_icons.Loading_1images_device_storage_network_asynchronously
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column

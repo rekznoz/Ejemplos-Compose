@@ -1,4 +1,4 @@
-package Image_And_Icons_Manipulations
+package img_icons.Image_And_Icons_Manipulations
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.fillMaxSize

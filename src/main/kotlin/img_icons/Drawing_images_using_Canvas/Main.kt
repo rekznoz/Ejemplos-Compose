@@ -1,4 +1,4 @@
-package Drawing_images_using_Canvas
+package img_icons.Drawing_images_using_Canvas
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.layout.fillMaxSize
