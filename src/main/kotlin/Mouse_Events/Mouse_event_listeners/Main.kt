@@ -1,4 +1,4 @@
-package Mouse_event_listeners
+package Mouse_Events.Mouse_event_listeners
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background

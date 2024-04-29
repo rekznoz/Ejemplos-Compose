@@ -1,4 +1,4 @@
-package New_experimental_onDrag_modifier
+package Mouse_Events.New_experimental_onDrag_modifier
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.PointerMatcher

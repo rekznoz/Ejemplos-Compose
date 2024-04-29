@@ -1,4 +1,4 @@
-package New_experimental_onClick_handlers
+package Mouse_Events.New_experimental_onClick_handlers
 
 import androidx.compose.animation.AnimatedContent
 import androidx.compose.animation.ExperimentalAnimationApi

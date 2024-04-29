@@ -1,4 +1,4 @@
-package Listenining_raw_events_in_commonMain
+package Mouse_Events.Listenining_raw_events_in_commonMain
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
