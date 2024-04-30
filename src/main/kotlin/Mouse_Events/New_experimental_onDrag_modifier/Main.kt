@@ -36,7 +36,8 @@ fun main() = singleWindowApplication {
             IntOffset(topBoxOffset.x.toInt(), topBoxOffset.y.toInt())
         }.size(100.dp)
             .background(Color.Green)
-            .onDrag { // all default: enabled = true, matcher = PointerMatcher.Primary (left mouse button)
+            .onDrag {
+                // all default: enabled = true, matcher = PointerMatcher.Primary (left mouse button)
                 topBoxOffset += it
             }
         ) {
